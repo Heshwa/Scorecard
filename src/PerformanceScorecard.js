@@ -2,14 +2,14 @@ import React, { useState } from 'react';
 import './PerformanceScorecard.css';
 
 const values = [
-  'Integrity',
-  'Collaboration',
-  'Innovation',
-  'Accountability',
-  'Customer Focus',
-  'Results Orientation',
-  'Continuous Learning',
-  'Respect for People'
+  'Exceed Client expectations',
+  'Pursue excellance',
+  'Build for long-term',
+  'Embrace change and innovation',
+  'Work as one global team',
+  'Be a caring Meritocracy',
+  'Drive a commercial rigor',
+  'Always act with integrity'
 ];
 
 const PerformanceScorecard = () => {
